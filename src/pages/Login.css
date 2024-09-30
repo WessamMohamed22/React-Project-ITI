@@ -1,0 +1,14 @@
+.btn-purple {
+    background-color: purple !important; 
+    color: white !important;
+    border: none !important;
+}
+
+.btn-purple:hover {
+    background-color: rgb(140, 75, 147) !important; 
+    color: white !important;
+    cursor: pointer;
+}
+.bg {
+    background-color: #f8f9fa; 
+}

@@ -1,0 +1,19 @@
+.shopapp-part1 {
+    color: purple; 
+  }
+  
+  .shopapp-part2 {
+    color: #c084c0; 
+  }
+
+  .nav-link.active {
+    color: purple !important; 
+  }
+
+  .nav-item {
+    margin-right: 15px; 
+  }
+  .badge {
+    position: relative;
+    top: -5px; /* Adjust vertical position */
+}

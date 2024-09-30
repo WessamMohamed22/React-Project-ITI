@@ -1,0 +1,12 @@
+.list-inline-item a {
+    transition: color 0.3s ease; 
+    color: purple;
+  }
+  
+  .list-inline-item a:hover {
+    color:rgb(191, 174, 202)
+  }
+  p{
+    color: purple;
+  }
+  
