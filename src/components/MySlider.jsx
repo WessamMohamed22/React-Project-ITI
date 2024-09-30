@@ -8,21 +8,21 @@ export default class MySlider extends Component {
         <div id="carouselExample" className="carousel slide">
           <div className="carousel-inner">
             <div className="carousel-item active">
-              <img style={{width:"500px", height: "500px"}} src="./images/1.jpg" className="d-block w-100" alt="..." />
+              <img style={{width:"500px", height: "500px"}} src={`${process.env.PUBLIC_URL}/images/1.jpg`} className="d-block w-100" alt="..." />
               <div className="carousel-caption d-none d-md-block">
                 <h5>First Slide Title</h5>
                 <p>This is the description for the first slide.</p>
               </div>
             </div>
             <div className="carousel-item">
-              <img style={{width:"500px", height: "500px"}} src="./images/3.jpg" className="d-block w-100" alt="..." />
+              <img style={{width:"500px", height: "500px"}} src={`${process.env.PUBLIC_URL}/images/3.jpg`} className="d-block w-100" alt="..." />
               <div className="carousel-caption d-none d-md-block">
                 <h5>Second Slide Title</h5>
                 <p>This is the description for the second slide.</p>
               </div>
             </div>
             <div className="carousel-item">
-              <img style={{width:"500px", height: "500px"}} src="./images/2.jpg" className="d-block w-100" alt="..." />
+              <img style={{width:"500px", height: "500px"}} src={`${process.env.PUBLIC_URL}/images/2.jpg`} className="d-block w-100" alt="..." />
               <div className="carousel-caption d-none d-md-block">
                 <h5>Third Slide Title</h5>
                 <p>This is the description for the third slide.</p>
