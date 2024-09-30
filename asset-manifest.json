@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Project-ITI/static/css/main.402f4de0.css",
-    "main.js": "/React-Project-ITI/static/js/main.db500127.js",
+    "main.js": "/React-Project-ITI/static/js/main.cbd505ad.js",
     "static/media/fa-solid-900.ttf": "/React-Project-ITI/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/fa-brands-400.ttf": "/React-Project-ITI/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
     "static/media/fa-solid-900.woff2": "/React-Project-ITI/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
@@ -12,10 +12,10 @@
     "static/media/fa-v4compatibility.woff2": "/React-Project-ITI/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/React-Project-ITI/index.html",
     "main.402f4de0.css.map": "/React-Project-ITI/static/css/main.402f4de0.css.map",
-    "main.db500127.js.map": "/React-Project-ITI/static/js/main.db500127.js.map"
+    "main.cbd505ad.js.map": "/React-Project-ITI/static/js/main.cbd505ad.js.map"
   },
   "entrypoints": [
     "static/css/main.402f4de0.css",
-    "static/js/main.db500127.js"
+    "static/js/main.cbd505ad.js"
   ]
 }
